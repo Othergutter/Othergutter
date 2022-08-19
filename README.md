@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Othergutter
-- 👀 I’m interested in object-oriented proggaming and iot;
-- 🌱 I’m currently learning c++;
-- 💞️ I’m looking to collaborate on void;
-- 📫 How to reach me: void;
+-  Hi, I’m @Othergutter
+-  I’m interested in object-oriented proggaming and iot;
+-  I’m currently learning c++;
+-  I’m looking to collaborate on void;
+-  How to reach me: void;
